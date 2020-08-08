@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Srivatsan
 
-<h3 align="center">Android | Full stack developer</h3>
+<h3>Android | Full stack developer</h3>
 
 - 🔭 I’m currently working on 
     1. tjscanner 
