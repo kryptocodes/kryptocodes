@@ -2,10 +2,6 @@
 
 <h3>Android | Full stack developer</h3>
 
-- 🔭 I’m currently working on 
-    1. tjscanner 
-    2. Anime watchlist
-
 - 🌱 I’m currently learning **Graphql, Flutter,Tensorflow**
 
 - 👯 I’m looking to collaborate on **GPMS**
