@@ -2,9 +2,9 @@
 
 <h3>Android | Full stack developer</h3>
 
-- 🌱 I’m currently learning **Graphql, Flutter,Tensorflow**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **GPMS**
+- 💻 I’m currently working on something Cool
 
 - 📫 How to reach me **srivatsantb@gmail.com**
 
