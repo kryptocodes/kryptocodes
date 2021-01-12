@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💻 I’m currently working on something Cool
+- 💻 I’m currently working on Pickcast
 
 - 📫 How to reach me **srivatsantb@gmail.com**
 
