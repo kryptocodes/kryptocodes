@@ -6,7 +6,7 @@
 
 ### 💻 Projects I am working on Now
    -  [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
-   -  [***PickCast***](https://pickcast.vercel.app) - An Movie Recommendation app
+   -  [***PickCast***](https://pickcast.vercel.app)
    
 ### 💻 Things I have worked on in the past
   - ***BookKeeper*** - An Book Keeping app 
@@ -16,7 +16,7 @@
   - [**agFOSS website**](https://agfoss.netlify.app/) 
   - [***GPMS***](https://gpms.vercel.app/) 
   - [***amritarepo***](https://amforall.netlify.app/) 
-  - ***krypton_kernel***
+  - ***krypton kernel***
   
   
 - 📫 How to reach me **srivatsantb@gmail.com**
