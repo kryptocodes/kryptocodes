@@ -12,7 +12,7 @@
   - ***BookKeeper*** - An Book Keeping app 
   - [***ScreenCap***](https://github.com/kryptocodes/screencap.git) - Screen Recorder for windows/linux
   - [***amtim***](https://amtim.netlify.app/) 
-  - [**imageclassifier**](https://github.com/kryptocodes/imageclassifier.git) 
+  - [**imageclassifier**](https://image-classifier.netlify.app) 
   - [**agFOSS website**](https://agfoss.netlify.app/) 
   - [***GPMS***](https://gpms.vercel.app/) 
   - [***amritarepo***](https://amforall.netlify.app/) 
