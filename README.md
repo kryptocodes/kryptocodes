@@ -1,11 +1,24 @@
 ### Hi there 👋 I'm Srivatsan
 
-<h3>Android | web developer</h3>
+<h3>Android | Web developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Elixir**
 
-- 💻 I’m currently working on Pickcast
-
+### 💻 Projects I am working on Now
+   -  [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
+   -  [***PickCast***](https://pickcast.vercel.app) - An Movie Recommendation app
+   
+### 💻 Things I have worked on in the past
+  - ***BookKeeper*** - An Book Keeping app 
+  - [***ScreenCap***](https://github.com/kryptocodes/screencap.git) - Screen Recorder for windows/linux
+  - [***amtim***](https://amtim.netlify.app/) 
+  - [**imageclassifier**](https://github.com/kryptocodes/imageclassifier.git) 
+  - [**agFOSS website**](https://agfoss.netlify.app/) 
+  - [***GPMS***](https://gpms.vercel.app/) 
+  - [***amritarepo***](https://amforall.netlify.app/) 
+  - ***krypton_kernel***
+  
+  
 - 📫 How to reach me **srivatsantb@gmail.com**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
