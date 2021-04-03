@@ -2,13 +2,14 @@
 
 <h3>Android | Web developer</h3>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Tensorflow**
 
 ### 💻 Projects I am working on Now
-   -  [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
+   -  ***CatSpace***
    -  [***PickCast***](https://pickcast.vercel.app)
    
 ### 💻 Things I have worked on in the past
+ -  [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
   - ***BookKeeper*** - An Book Keeping app 
   - [***ScreenCap***](https://github.com/kryptocodes/screencap.git) - Screen Recorder for windows/linux
   - [***amtim***](https://amtim.netlify.app/) 
