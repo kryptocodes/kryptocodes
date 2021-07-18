@@ -6,16 +6,16 @@
 
 ### 💻 Projects I am working on Now
    -  ***CatSpace***
-   -  [***PickCast***](https://pickcast.vercel.app)
    
 ### 💻 Things I have worked on in the past
  -  [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
-  - ***BookKeeper*** - An Book Keeping app 
+  - [***Inventory ERP***](https://saramerp.netlify.app/login) - An ERP Inventory Management System 
   - [***ScreenCap***](https://github.com/kryptocodes/screencap.git) - Screen Recorder for windows/linux
   - [***amtim***](https://amtim.netlify.app/) 
   - [**imageclassifier**](https://image-classifier.netlify.app) 
   - [**agFOSS website**](https://agfoss.netlify.app/) 
   - [***GPMS***](https://gpms.vercel.app/) 
+  - [***PickCast***](https://pickcast.vercel.app)
   - [***amritarepo***](https://amforall.netlify.app/) 
   - ***krypton kernel***
   
