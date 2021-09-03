@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning **Tensorflow**
 
 ### 💻 Projects I am working on Now
-   -  ***CatSpace***
+   - ERP_Management 
    
 ### 💻 Things I have worked on in the past
- -  [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
+  - [***CatSpace***](https://github.com/kryptocodes/CatSpace)
+  - [***LiReddit***](https://github.com/kryptocodes/lireddit_frontend) 
   - [***Inventory ERP***](https://saramerp.netlify.app/login) - An ERP Inventory Management System 
   - [***ScreenCap***](https://github.com/kryptocodes/screencap.git) - Screen Recorder for windows/linux
   - [***amtim***](https://amtim.netlify.app/) 
