@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Srivatsan
 
-<h3>Android | Web developer</h3>
+<h3>Full Stack Developer</h3>
+<h3>I design and build apps, and everything that comes with it</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
