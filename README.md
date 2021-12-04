@@ -2,10 +2,10 @@
 
 <h3>Android | Web developer</h3>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Solidity**
 
 ### 💻 Projects I am working on Now
-   - ERP_Management 
+   - Dapps
    
 ### 💻 Things I have worked on in the past
   - [***CatSpace***](https://github.com/kryptocodes/CatSpace)
