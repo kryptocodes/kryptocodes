@@ -6,7 +6,7 @@
    
 ### 💻 Proof of Work
   - [***Polygon Copilot***](https://copilot.polygon.technology) - Web3 Copilot
-  - [***Surfaceboard***](https://surfaceboard.xyz) - Polygon NFT Analytics 
+  - [***Surfaceboard***](https://mnfst.tools/) - Polygon NFT Analytics 
   - [***Mint NFT***](https://0xmint.io) - NFT Minter (world simplest NFT minter ) 
   - [***Coinbase NFT***](https://polygon.coinbase.com) - Coinbase Wallet Collab - 1.2Million+ mints
   - [***Flipkart Strand***](https://polygonscan.com/address/0xf5b3b9afad445d1ad3c4d45c2be6ac22dd59864e) - a first-of-its-kind 'culture passport' for Flipkart shoppers
