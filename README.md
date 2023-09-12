@@ -12,9 +12,7 @@
   - [***Flipkart Strand***](https://polygonscan.com/address/0xf5b3b9afad445d1ad3c4d45c2be6ac22dd59864e) - a first-of-its-kind 'culture passport' for Flipkart shoppers
   - [***Polygon Drops***](https://drops.polygon.technology) - powered the backend
   - [***NFT Wrapped***](https://www.producthunt.com/products/nft-wrapped)
-  - ***NFT NYC Quest***
-  - ***Team Liquid***
-  - ***BIAL***
+  - ***NFT NYC Quest***,***Team Liquid***, ***BIAL***
   - ***krypton kernel***
   
 <br/>
