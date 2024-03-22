@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Rust**
    
 ### 💻 Proof of Work
-  - [***Polygon Copilot***]([https://copilot.polygon.technology](https://polygon.technology/blog/introducing-copilot-your-ai-powered-guide-to-polygon-and-web3)) - Web3 Copilot
+  - [***Polygon Copilot***](https://polygon.technology/blog/introducing-copilot-your-ai-powered-guide-to-polygon-and-web3) - Web3 Copilot
   - [***Surfaceboard***](https://mnfst.tools/) - Polygon NFT Analytics 
   - [***Mint NFT***](https://0xmint.io) - NFT Minter (world simplest NFT minter ) 
   - [***Coinbase NFT***](https://twitter.com/akshaybd/status/1535114368697909249) - Coinbase Wallet Collab - 1.2Million+ mints
