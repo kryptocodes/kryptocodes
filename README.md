@@ -8,7 +8,7 @@ I currently work at Questbook as a software engineer, primarily focusing on tool
 
 ### A Few of My Works
 
-* [Surfaceboard](https://mnfst.tools/) - Polygon NFT Analytics (tech stack: GraphQL, PostgreSQL, React)
+* [Surfaceboard](https://www.producthunt.com/products/surfaceboard) - Polygon NFT Analytics (tech stack: GraphQL, PostgreSQL, React)
 * [Coinbase NFT](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*i5AYgYJa76xnPXNI.png) - Coinbase Wallet Collab - creating a new NFT experience for Coinbase Wallet users with 1.2M+ mints - the largest NFT drop in history and did a record 100k mints in 1 day (tech stack: Kafka, Express, MongoDB, React) - built a custom gasless backend infrastructure
 * [NFT Wrapped](https://www.producthunt.com/products/nft-wrapped) - get your NFT stats for the year whether you are rekt, mooning or just holding (got featured on Product Hunt and 5th most upvoted product of the day)
 * [Polygon Copilot](https://polygon.technology/blog/introducing-copilot-your-ai-powered-guide-to-polygon-and-web3) - Web3 Copilot
