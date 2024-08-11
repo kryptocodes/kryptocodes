@@ -13,7 +13,8 @@ I currently work at Questbook as a software engineer, primarily focusing on tool
 * [NFT Wrapped](https://www.producthunt.com/products/nft-wrapped) - get your NFT stats for the year whether you are rekt, mooning or just holding (got featured on Product Hunt and 5th most upvoted product of the day)
 * [Polygon Copilot](https://polygon.technology/blog/introducing-copilot-your-ai-powered-guide-to-polygon-and-web3) - Web3 Copilot
 * [Webtree](https://webtreee.xyz/) - decentralized linktree with zkProof using Reclaim Protocol
-* And more: NFT NYC Quest, Polygon Drops, Mint NFT, Team Liquid, BIAL
+* Team Liquid: NFT Management Toolkit to administer all mints for their eSports community over the next few years
+* And more: [NFT NYC Quest](https://x.com/0xPolygonEco/status/1537841336447008770, [Polygon Drops](https://0xcopestudio.medium.com/polygon-launches-drops-the-polygon-merch-store-powered-by-cope-studio-c6c9388de421), Flipkart Firedrops, [Mint NFT](https://0xmint.io/), BIAL (Bangalore International Airport T2 Metaport: NFT Quest solution for airport inauguration activities)
 
 ## Contact
 
